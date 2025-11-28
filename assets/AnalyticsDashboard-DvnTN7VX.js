@@ -1,0 +1,1 @@
+import{j as a}from"./index-Bd778Qe4.js";import{c as r,d as s}from"./cil-user-xxyo0guq.js";import{C as d}from"./CCardHeader-LaoSSsrI.js";const i=()=>a.jsxs(r,{className:"mb-4",children:[a.jsx(d,{children:"AnalyticsDashboard"}),a.jsx(s,{children:"AnalyticsDashboard"})]});export{i as default};

@@ -1,0 +1,1 @@
+import{j as s}from"./index-Bd778Qe4.js";import{c as r,d as e}from"./cil-user-xxyo0guq.js";import{C as t}from"./CCardHeader-LaoSSsrI.js";const d=()=>s.jsxs(r,{className:"mb-4",children:[s.jsx(t,{children:"BusinessSettings"}),s.jsx(e,{children:"BusinessSettings"})]});export{d as default};
